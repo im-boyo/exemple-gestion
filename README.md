@@ -14,4 +14,5 @@ Source: https://youtu.be/HyX6MRs506M?si=6FSUl2lLWOaZ2Nn8
 Le fantôme de Pepper <br>
 ![PeppersGhost](https://upload.wikimedia.org/wikipedia/commons/0/0c/Peppers_ghost_low_angle.jpg) <br>
 ![PeppersGhost2](https://upload.wikimedia.org/wikipedia/commons/1/19/Peppers_ghost_lit.jpg) <br>
-Source: https://fr.wikipedia.org/wiki/Fant%C3%B4me_de_Pepper
+Source: https://fr.wikipedia.org/wiki/Fant%C3%B4me_de_Pepper  <br>
+:3
