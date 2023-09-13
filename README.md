@@ -25,3 +25,4 @@ Source: https://www.showtex.com/en/products/flame-retardant-textiles/scrim-netti
 
 - Animation qui joue quand on s'approche d'un mur
 - Lumière sur sol pour dire à l'interacteur où se placer
+- Tracking du positionnement de la lumière avec Max
