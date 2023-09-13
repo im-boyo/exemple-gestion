@@ -16,3 +16,9 @@ Le fantôme de Pepper <br>
 ![PeppersGhost2](https://upload.wikimedia.org/wikipedia/commons/1/19/Peppers_ghost_lit.jpg) <br>
 Source: https://fr.wikipedia.org/wiki/Fant%C3%B4me_de_Pepper  <br>
 
+## Idée en lien avec le projet
+- Utiliser le cyclo du grand studio
+- Utiliser le filet comme quatrième mur pour projeter
+- Créer un univers 360
+![WomanNet](https://www.showtex.com/sites/default/files/styles/huge/public/images/banners/multimedia-performance-8-showtex-03_1-min.jpg?itok=CMbGgOuN) <br>
+Source: https://www.showtex.com/en/products/flame-retardant-textiles/scrim-netting-gauze/pepperscrim
