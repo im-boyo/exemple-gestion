@@ -10,7 +10,19 @@ La nostalgie
 Vidéo: https://youtu.be/WFkZjTCxVPc?si=YtvipODYRm8tzLlg
 
 ![IMG1](https://cdn.discordapp.com/attachments/756876593837637685/1146615210308804648/image.png) <br>
-Source: https://youtu.be/HyX6MRs506M?si=6FSUl2lLWOaZ2Nn8
+Source: https://youtu.be/HyX6MRs506M?si=6FSUl2lLWOaZ2Nn8 <br>
+<br>
+
+![inspo1](https://i.pinimg.com/564x/e6/cd/69/e6cd69378fcc7d5d5d851942caee2c1a.jpg)
+![inspo1](https://i.pinimg.com/564x/2a/0e/a0/2a0ea0ebc78a8875e7b77f428679f3ce.jpg)
+![inspo1](https://i.pinimg.com/564x/c6/31/cb/c631cb31e30f2732a126a508c555c2f4.jpg)
+![inspo1](https://i.pinimg.com/564x/89/16/79/891679fe039d5840878f857b10aedd1d.jpg)
+
+https://github.com/im-boyo/testa_radovanovic_felix_holonet/assets/89608091/e012ddf2-949b-4c4c-84e7-9a928b0e197f
+
+https://github.com/im-boyo/testa_radovanovic_felix_holonet/assets/89608091/f26bbbed-68c3-456f-9f0e-d5b356eefba3
+
+Source: https://www.pinterest.ca/imboyo_/project-holonet/ <br>
 
 ## Origine
 Le fantôme de Pepper <br>
