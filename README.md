@@ -45,3 +45,4 @@ Source: https://www.showtex.com/en/products/flame-retardant-textiles/scrim-netti
 (Add GIF) <br>
 
 ## Problèmes possibles
+- Obtenir un filet Pepperscrim
