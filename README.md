@@ -42,7 +42,8 @@ Source: https://www.showtex.com/en/products/flame-retardant-textiles/scrim-netti
 - Tracking du positionnement de la lumière avec Max
 ![Patcher1](https://cdn.discordapp.com/attachments/756876593837637685/1151853593645826058/image.png) <br>
 ![Patcher2](https://cdn.discordapp.com/attachments/756876593837637685/1151853826740068442/image.png) <br>
-(Add GIF) <br>
+![patcherexemple](https://github.com/im-boyo/testa_radovanovic_felix_holonet/assets/89608091/95716adb-5f13-47ae-bb5b-006b9dc3a2b6) <br>
 
 ## Problèmes possibles
-- Obtenir un filet Pepperscrim
+- Obtenir un filet Pepperscrim - Compagnie contactée
+- Savoir comment utiliser un filet Pepperscrim - Tutoriels, aide de l'enseignant
