@@ -49,5 +49,5 @@ Source: https://www.showtex.com/en/products/flame-retardant-textiles/scrim-netti
 ![patcherexemple](https://github.com/im-boyo/testa_radovanovic_felix_holonet/assets/89608091/95716adb-5f13-47ae-bb5b-006b9dc3a2b6) <br>
 
 ## Problèmes possibles
-- Obtenir un filet Pepperscrim (Coût) - Compagnie contactée
+- Obtenir un filet Pepperscrim (Prix) - Compagnie contactée
 - Savoir comment utiliser un filet Pepperscrim (Nouveau matériel, installation) - Tutoriels, aide de l'enseignant
