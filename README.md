@@ -36,18 +36,18 @@ Source: https://fr.wikipedia.org/wiki/Fant%C3%B4me_de_Pepper  <br>
 ## Idée en lien avec le projet
 - Utiliser le cyclo du grand studio
 - Utiliser le filet comme quatrième mur pour projeter
-- Créer un univers 360
+- Créer un univers 360 
 ![WomanNet](https://www.showtex.com/sites/default/files/styles/huge/public/images/banners/multimedia-performance-8-showtex-03_1-min.jpg?itok=CMbGgOuN) <br>
 Source: https://www.showtex.com/en/products/flame-retardant-textiles/scrim-netting-gauze/pepperscrim
 
 - Animation qui joue quand on s'approche d'un mur
 - Lumière sur sol pour dire à l'interacteur où se placer
-- Tracking du positionnement de la lumière avec Max
+- Tracking du positionnement de la lumière avec Max <br> <br>
 ![drawio](media/holonet.drawio.png) <br>
 ![Patcher1](https://cdn.discordapp.com/attachments/756876593837637685/1151853593645826058/image.png) <br>
 ![Patcher2](https://cdn.discordapp.com/attachments/756876593837637685/1151853826740068442/image.png) <br>
 ![patcherexemple](https://github.com/im-boyo/testa_radovanovic_felix_holonet/assets/89608091/95716adb-5f13-47ae-bb5b-006b9dc3a2b6) <br>
 
 ## Problèmes possibles
-- Obtenir un filet Pepperscrim - Compagnie contactée
-- Savoir comment utiliser un filet Pepperscrim - Tutoriels, aide de l'enseignant
+- Obtenir un filet Pepperscrim (Coût) - Compagnie contactée
+- Savoir comment utiliser un filet Pepperscrim (Nouveau matériel, installation) - Tutoriels, aide de l'enseignant
