@@ -1,7 +1,7 @@
 # Holonet
 
 ## Concept
-Projection de vidéos et d'images en hologramme afin de créer un univers relaxe
+Projection de vidéos et d'images en hologramme afin de créer un univers relaxe et intéractif
 ### Thème
 La nostalgie
 
