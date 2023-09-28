@@ -21,8 +21,11 @@ Source: https://youtu.be/HyX6MRs506M?si=6FSUl2lLWOaZ2Nn8 <br>
 ![inspo1](https://i.pinimg.com/564x/89/16/79/891679fe039d5840878f857b10aedd1d.jpg)
 
 ### Conceptuelle
-![video1](media/270749825-e012ddf2-949b-4c4c-84e7-9a928b0e197f.mp4)
-![video2](media/270751736-f26bbbed-68c3-456f-9f0e-d5b356eefba3.mp4)
+
+https://github.com/im-boyo/testa_radovanovic_felix_holonet/assets/89608091/3f1ac834-c73b-443b-9a3f-4d33c1d0216a
+
+https://github.com/im-boyo/testa_radovanovic_felix_holonet/assets/89608091/1b8e0fd1-d65f-464f-bdf0-820e7d03ebad
+
 Source: https://www.pinterest.ca/imboyo_/project-holonet/ <br>
 
 ## Origine
